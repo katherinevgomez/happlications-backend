@@ -1,7 +1,7 @@
 # Happlications
 
-This website is a job application tracking tool built using ### Rubby On Rails
+This website is a job application tracking tool built using ## Rubby On Rails
 and
-###React
+##React
 
 See the deployed site here:
