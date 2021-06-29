@@ -3,11 +3,11 @@
 one:
   role: MyString
   company: MyString
-  date: 1
-  interview: false
+  date: MyString
+  interview: MyString
 
 two:
   role: MyString
   company: MyString
-  date: 1
-  interview: false
+  date: MyString
+  interview: MyString

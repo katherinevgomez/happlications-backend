@@ -3,8 +3,8 @@ class CreateApplications < ActiveRecord::Migration[6.1]
     create_table :applications do |t|
       t.string :role
       t.string :company
-      t.integer :date
-      t.boolean :interview
+      t.string :date
+      t.string :interview
 
       t.timestamps
     end
